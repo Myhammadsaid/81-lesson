@@ -1,0 +1,47 @@
+.product-about {
+  margin-bottom: 60px;
+}
+
+.product-about-cards {
+  display: grid;
+  grid-template-columns: auto;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+}
+
+.product-about-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.product-about-content {
+  max-width: 519px;
+  display: grid;
+  grid-template-columns: auto;
+  gap: 16px;
+}
+
+.product-about-title {
+  color: #232536;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -2px;
+}
+
+.product-about-text {
+  color: #232536;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.product-about-par {
+  color: #232536;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}

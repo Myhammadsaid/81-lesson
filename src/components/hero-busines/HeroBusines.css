@@ -1,0 +1,40 @@
+.hero-busines {
+  background: #f4f0f8;
+  padding: 80px 0;
+  margin-bottom: 60px;
+}
+
+.hero-busines-style {
+  max-width: 515px;
+  display: grid;
+  grid-template-columns: auto;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  gap: 16px;
+}
+
+.hero-busines-title {
+  color: #232536;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: -2px;
+}
+
+.hero-busines-par {
+  color: #6d6e76;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  margin-bottom: 16px;
+}
+
+.hero-busines-text {
+  color: #232536;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+}

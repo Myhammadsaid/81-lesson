@@ -1,0 +1,29 @@
+header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  background: #232536;
+  padding: 25px 0;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+
+.nav-link {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}

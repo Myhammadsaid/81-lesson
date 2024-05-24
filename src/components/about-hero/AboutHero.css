@@ -1,0 +1,42 @@
+.about-hero {
+  margin: 100px 0;
+}
+
+.about-hero-style {
+  background: #f4f0f8;
+  padding: 83px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.about-hero-content {
+  max-width: 516px;
+  display: grid;
+  grid-template-columns: auto;
+  gap: 16px;
+}
+
+.about-hero-title {
+  color: #232536;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 3px;
+}
+
+.about-hero-text {
+  color: #232536;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -1px;
+}
+
+.about-hero-par {
+  color: #6d6e76;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}

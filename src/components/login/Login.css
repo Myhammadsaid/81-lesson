@@ -1,0 +1,28 @@
+.login {
+  margin: 50px 0;
+}
+
+.login-title {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: -2px;
+  text-align: center;
+  margin-bottom: 68px;
+  color: #232536;
+}
+
+.login-form {
+  max-width: 768px;
+  display: grid;
+  grid-template-columns: auto;
+  justify-content: center;
+  margin: 0 auto;
+  gap: 22px;
+}
+
+.login-input {
+  width: 768px;
+  text-indent: 24px;
+  height: 76px;
+}
